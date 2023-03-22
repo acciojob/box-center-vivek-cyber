@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+div{
+    background-color: lightblue;
+    
+    padding: 30px;
+    color: purple;
+    border: 2px solid black;
+}
+main
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
